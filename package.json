@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-user-authentication-auth0",
+  "version": "1.0.0",
+  "description": "[Add Node.js User Authentication in 10 Minutes by James Q Quick](https://www.youtube.com/watch?v=QQwo4E_B0y8&t=494s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crrmarchese/nodejs-user-authentication-auth0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crrmarchese/nodejs-user-authentication-auth0/issues"
+  },
+  "homepage": "https://github.com/crrmarchese/nodejs-user-authentication-auth0#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "express-openid-connect": "^2.4.0"
+  }
+}
